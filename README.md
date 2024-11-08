@@ -1,4 +1,4 @@
-# APB-UVC-Development
+# APB (Advanced Peripheral Bus) UVC Development
 
 APB SIGNAL DESCRIPTION
 
